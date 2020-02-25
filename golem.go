@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/aaaton/golem/dicts"
+	"github.com/Enflick/golem/dicts"
 )
 
 // Lemmatizer is the key to lemmatizing a word in a language

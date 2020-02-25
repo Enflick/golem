@@ -5,11 +5,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aaaton/golem/dicts/de"
-	"github.com/aaaton/golem/dicts/en"
-	"github.com/aaaton/golem/dicts/es"
-	"github.com/aaaton/golem/dicts/fr"
-	"github.com/aaaton/golem/dicts/sv"
+	"github.com/Enflick/golem/dicts/de"
+	"github.com/Enflick/golem/dicts/en"
+	"github.com/Enflick/golem/dicts/es"
+	"github.com/Enflick/golem/dicts/fr"
+	"github.com/Enflick/golem/dicts/sv"
 )
 
 func TestEnglishUsage(t *testing.T) {
