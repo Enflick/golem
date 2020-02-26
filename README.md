@@ -42,6 +42,8 @@ func main() {
 }
 ```
 
+To regenerate the files, run `make all`. This requires [go-bindata](https://github.com/jteeuwen/go-bindata) to be installed.
+
 ### Contributors
 
 - axamon
